@@ -1,8 +1,7 @@
-Here’s a README file for your simple calculator program:
 
 ---
 
-# Simple Calculator - README
+# Simple Calculator - README.
 
 ## Overview
 This program is a basic command-line calculator that performs simple arithmetic operations such as addition, subtraction, multiplication, and division. The user is prompted to enter an operator and two numbers, and the program then displays the result of the calculation.
